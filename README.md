@@ -7,7 +7,7 @@
 <div align="left">
 <h3 style="margin-bottom: 20px;">👩‍💻 About Me</h3>
 
-- 🌱 I'm a 22 years old **Master's in Artificial Intelligence** student  
+- 🌱 I'm a 23 years old **Master's in Artificial Intelligence** student  
 - 🎓 Graduated with a **BSc in Mathematics**  
 - 💻 I have experience in **software development**  
 - ⭐️ Passionate about applying **math, AI, and data science** to real-world problems  
