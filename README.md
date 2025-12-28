@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=martasolerebri.martasolerebri">
+
 <div align="center">
 <h1>Hi there, I'm Marta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -30,5 +32,3 @@
 <h3 align="left">
   <a href="https://github.com/martasolerebri?tab=repositories" title="Show Repositories">🔎 Show More </a>
 </h3>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=martasolerebri.martasolerebri">
