@@ -23,14 +23,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-DA8CA3?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 <div align="left">
-<h3 style="margin-bottom: 20px;">📊 GitHub Stats</h3>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=martasolerebri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martasolerebri&layout=compact&theme=radical"/>
-</p>
-
-<div align="left">
 <h3 style="margin-bottom: 20px;">📫 Connect with Me</h3>
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marta-soler-ebri/) ✉️ martasolerebri@gmail.com </h3> 
