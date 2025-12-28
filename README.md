@@ -27,8 +27,6 @@
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marta-soler-ebri/) ✉️ martasolerebri@gmail.com </h3> 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=martasolerebri.martasolerebri">
-
 <h3 align="left">
   <a href="https://github.com/martasolerebri?tab=repositories" title="Show Repositories">🔎 Show More </a>
 </h3>
