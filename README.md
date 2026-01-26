@@ -7,7 +7,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Bsc in Mathematics | Msc Student in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 <div align="left">
-<h3 style="margin-bottom: 20px;">👩‍💻 About Me</h3>
+<h3 style="margin-bottom: 20px;">👩🏻‍💻 About Me</h3>
 
 - 🌱 I'm a 23 years old **Master's in Artificial Intelligence** student  
 - 🎓 Graduated with a **BSc in Mathematics**  
@@ -25,7 +25,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-DA8CA3?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 <div align="left">
-<h3 style="margin-bottom: 20px;">📫 Connect with Me</h3>
+<h3 style="margin-bottom: 20px;">📧 Connect with Me</h3>
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marta-soler-ebri/) ✉️ martasolerebri@gmail.com </h3> 
 
