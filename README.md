@@ -27,7 +27,7 @@
 <div align="left">
 <h3 style="margin-bottom: 20px;">📧 Connect with Me</h3>
   
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marta-soler-ebri/) ✉️ martasolerebri@gmail.com </h3> 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marta-soler-ebri/) </h3> 
 
 <h3 align="left">
   <a href="https://github.com/martasolerebri?tab=repositories" title="Show Repositories">🔎 Show More </a>
