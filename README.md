@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=martasolerebri.martasolerebri">
 
 <div align="center">
-<h1>Hi there, I'm Marta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align:middle" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7B5CA&center=true&vCenter=true&width=350&lines=Hi+there!;This+is+Marta...;Data+Analyst;Nice+to+meet+you!" alt="Typing SVG" style="vertical-align:middle" />
+  </a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align:middle" />
+</div>
 
 <div align="left">
 <h3 style="margin-bottom: 20px;">👩🏻‍💻 About Me</h3>
